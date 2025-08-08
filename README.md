@@ -1,4 +1,4 @@
-📒 Java File I/O – Notes App
+# 📒 Java File I/O – Notes App
 A simple text-based notes manager built in Java using FileReader, BufferedReader, and FileWriter to demonstrate file read/write operations and exception handling.
 This project is part of the Java Developer Internship (Task 4).
 
